@@ -13,4 +13,9 @@ iOS animation demonstration.
 - CGAffineTransform
 
 ## Demonstration
-Small demonstration as to what the application does when on device to be added.
+Small demonstration as to what the animations do when on a device.
+</br>
+<p align="center">
+<img src="demo/animation.gif" alt="Application demonstration"
+	title="Animation demonstration" width="600" height="450" />
+</p>
